@@ -10,7 +10,11 @@ This is example is to show difference part of Git repository and various command
 As stated above, the main purpose is to provide simple examples for Git training demos.
 
 ## How To Contribute
+This is yet to be noted.
 
 ## Deployment
 
 This is a simple web project, Deployment can be on any web server or even local file system.
+
+## New Section
+Here is some text for the new Section
