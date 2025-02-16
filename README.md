@@ -18,3 +18,7 @@ This is a simple web project, Deployment can be on any web server or even local 
 
 ## New Section
 Here is some text for the new Section
+
+### Copyright
+
+2025 Ayu10x docs.
